@@ -6,4 +6,4 @@
 </p>
 
 # Trillo
-Landing page for hotel, flight and tour booking agency.
+A clean and modern landing page is created for hotel, flight and tour booking agency. Built with a desktop-first approach, layout was created using modern CSS features like **`flexbox`**. For modular css code **`Sass`** framework has been used and **`BEM`** methodology has been used for class naming.
